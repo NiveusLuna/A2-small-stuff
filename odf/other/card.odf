@@ -23,7 +23,7 @@ multiPlayerMusic = "mcarmp300.wav"
 transportSprite = "ctransport"
 
 // How quickly this race repairs.  Bigger is slower.
-repairStrength = 9.0f
+repairStrength = 4.0f
 
 // How strong this race is when fighting as a boarding party or
 // against a boarding party.
@@ -47,8 +47,8 @@ cityTextureName = "ECNA"
 atmosphereTextureName = ""
 
 // atmosphere tint (ugly yellow)
-//atmosphereTint = 0.6 0.8 0.1
-atmosphereTint = 1.0 1.0 1.0
+atmosphereTint = 0.6 0.8 0.1
+//atmosphereTint = 1.0 1.0 1.0
 
 // # of cities in the city texture
 numCities = 35.0

@@ -52,8 +52,8 @@ planetCrewAccumulationModifier = 1.5
 cityTextureName = "BORG"
 
 // atmosphere tint (dirty gray)
-//atmosphereTint = 0.5 0.5 0.4
-atmosphereTint = 1.0 1.0 1.0
+atmosphereTint = 0.5 0.5 0.4
+//atmosphereTint = 1.0 1.0 1.0
 
 // # of cities in the city texture
 numCities = 35.0
@@ -126,7 +126,7 @@ recycleMetalFraction = .6
 miningRateModifier = 1.3
 
 // Borg don't trade, so don't even try.
-canTrade = 0;
+canTrade = 0
 
 // what event should we use when we run out of officers?
 insufficientOfficersEvent = "InsufficientBorgOfficers"

@@ -50,8 +50,8 @@ planetCrewAccumulationModifier = 1.25
 cityTextureName = "ECFR"
 
 // atmosphere tint (ugly green)
-//atmosphereTint = 0.3 0.7 0.3
-atmosphereTint = 1.0 1.0 1.0
+atmosphereTint = 0.3 0.7 0.3
+//atmosphereTint = 1.0 1.0 1.0
 
 // # of cities in the city texture
 numCities = 35.0

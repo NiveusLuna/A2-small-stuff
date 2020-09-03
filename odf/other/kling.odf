@@ -45,8 +45,8 @@ planetCrewAccumulationModifier = 1.25
 cityTextureName = "ECNA"
 
 // atmosphere tint (reddish)
-//atmosphereTint = 0.8 0.3 0.2
-atmosphereTint = 1.0 1.0 1.0
+atmosphereTint = 0.8 0.3 0.2
+//atmosphereTint = 1.0 1.0 1.0
 
 // # of cities in the city texture
 numCities = 35.0
